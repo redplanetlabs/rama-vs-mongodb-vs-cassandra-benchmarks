@@ -1,0 +1,1 @@
+The code in this project was used to benchmark Rama vs. MongoDB vs. Cassandra. We published the results of these benchmarks in [this blog post](https://blog.redplanetlabs.com/2024/04/25/better-performance-rama-vs-mongodb-and-cassandra/).
